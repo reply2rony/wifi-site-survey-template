@@ -1,0 +1,17 @@
+point_id,floor,location,band,signal_dbm,channel,nearest_ap,interference,rating,notes
+P01,1,Sample Reception,2.4ghz,-42,1,AP-1,none,excellent,Close to AP-1
+P02,1,Sample Reception,5ghz,-48,36,AP-1,none,excellent,Close to AP-1
+P03,1,Sample Office A,2.4ghz,-58,6,AP-1,neighbouring network on ch 6,good,Usable for most work
+P04,1,Sample Office A,5ghz,-55,44,AP-1,none,good,Strong on both bands
+P05,1,Sample Meeting Room,2.4ghz,-72,6,AP-2,thick wall,weak,Signal drops when door closes
+P06,1,Sample Meeting Room,5ghz,-81,44,AP-2,thick wall,dead-zone,Effectively no 5 GHz signal
+P07,1,Sample Corridor,2.4ghz,-49,11,AP-2,none,excellent,Open corridor
+P08,1,Sample Corridor,5ghz,-52,149,AP-2,none,good,Open corridor
+P09,1,Sample Store Room,2.4ghz,-83,1,AP-1,metal shelves,dead-zone,Metal shelving blocks signal
+P10,1,Sample Store Room,5ghz,-88,36,AP-1,metal shelves,dead-zone,Needs a new access point
+P11,2,Sample Office B,2.4ghz,-61,6,AP-3,microwave nearby,fair,Microwave causes dips at lunch
+P12,2,Sample Office B,5ghz,-66,52,AP-3,none,fair,Usable but watch for drops
+P13,2,Sample Office C,2.4ghz,-47,11,AP-3,none,excellent,Close to AP-3
+P14,2,Sample Office C,5ghz,-51,60,AP-3,none,good,Strong on both bands
+P15,2,Sample Stairwell,2.4ghz,-77,1,AP-3,concrete walls,weak,Unreliable in stairwell
+P16,2,Sample Stairwell,5ghz,-84,36,AP-3,concrete walls,dead-zone,No usable 5 GHz signal

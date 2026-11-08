@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local copies of the template with real data — never commit real floor plans, SSIDs, or access-point locations
+*-real.csv
+*-private.csv
